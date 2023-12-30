@@ -5,6 +5,6 @@ public record LibraryEvent(
 
         LibraryEventType libraryEventType,
 
-        Book boo
+        Book book
 ) {
 }
